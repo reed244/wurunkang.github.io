@@ -2200,8 +2200,6 @@ figure.highlight pre .javascript .function {
 .collect .collect-list .collect_box .collect_mask p.collect_evaluation {
   margin: 0;
   font-size: 1.2em;
-  text-align: center;
-  padding: 20px;
 }
 [data-theme='dark'] .collect .collect-list .collect_box {
   color: #ddd !important;
